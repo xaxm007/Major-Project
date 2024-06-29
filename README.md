@@ -8,4 +8,4 @@
 -->These are other ideas we considered for our project.
 
 [New_Papers](https://github.com/xaxm007/Major-Project/tree/da10f77b32cf3caa9acbc2f197696766f4ca6d54/New%20Papers)
---> These are papers @ayyp1 found and contains information on data collection as well as for visualization of CSI signals.
+--> These are papers [ayyp1](https://github.com/ayyp1) found and contains information on data collection as well as for visualization of CSI signals.
