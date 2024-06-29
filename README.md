@@ -7,5 +7,5 @@
 [Other Ideas](https://github.com/xaxm007/Major-Project/tree/8c63355bfcc29acfa4fc2ac8809bc2209b868071/Other%20Ideas)
 -->These are other ideas we considered for our project.
 
-[New_Papers]
+[New_Papers](https://github.com/xaxm007/Major-Project/tree/da10f77b32cf3caa9acbc2f197696766f4ca6d54/New%20Papers)
 --> These are papers @ayyp1 found and contains information on data collection as well as for visualization of CSI signals.
