@@ -23,9 +23,9 @@ The project is divided into several key components:
 
 ## Repository Structure
 
-- [Main-Reference-Papers](https://github.com/xaxm007/Major-Project/tree/main/main-reference-papers)
+- [Main-Reference-Papers](./Main%20Reference%20Papers/)
   - These are the main papers from which we based our project on.
-- [Literature-Review-Papers](https://github.com/xaxm007/Major-Project/tree/main/literature-review-papers)
+- [Literature-Review-Papers](./Literature%20Review/)
   - These are the papers to be included in literature review and references.
-- [Reports](https://github.com/xaxm007/Major-Project/tree/main/reports)
+- [Reports](./Reports/)
   - These are the project reports and presentation for our project.
