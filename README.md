@@ -22,18 +22,32 @@ The project is divided into several key components:
 
 ## Repository Structure
 
+## Repository Structure
+
 ```plaintext
-├── [main-reference-papers/](https://github.com/xaxm007/Major-Project/tree/8a68a6292d1b6ac5f0e4a84b66ebc04ac0bae725/Literature%20Review/)
+├── [main-reference-papers/](https://github.com/xaxm007/Major-Project/tree/main/main-reference-papers)
 │   ├── paper1.pdf
 │   ├── paper2.pdf
 │   └── ...
-├── literature-review-papers/
+├── [literature-review-papers/](https://github.com/xaxm007/Major-Project/tree/main/literature-review-papers)
 │   ├── review1.pdf
 │   ├── review2.pdf
 │   └── ...
-├── reports/
+├── [reports/](https://github.com/xaxm007/Major-Project/tree/main/reports)
 │   ├── report1.pdf
 │   ├── report2.pdf
-│   └── 
-├── README.md
-└── .gitignore
+│   └── ...
+├── [presentation/](https://github.com/xaxm007/Major-Project/tree/main/presentation)
+│   └── presentation.pptx
+├── [data/](https://github.com/xaxm007/Major-Project/tree/main/data)
+│   ├── raw/
+│   ├── processed/
+│   └── ...
+├── [src/](https://github.com/xaxm007/Major-Project/tree/main/src)
+│   ├── preprocessing.py
+│   ├── feature_extraction.py
+│   ├── model_training.py
+│   └── visualization.py
+├── [README.md](https://github.com/xaxm007/Major-Project/blob/main/README.md)
+└── [.gitignore](https://github.com/xaxm007/Major-Project/blob/main/.gitignore)
+
