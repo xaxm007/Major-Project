@@ -1,11 +1,39 @@
-[Literature Review](https://github.com/xaxm007/Major-Project/tree/8a68a6292d1b6ac5f0e4a84b66ebc04ac0bae725/Literature%20Review)
---> These are the papers to be included in literature review and references.
+# Major Project: A Deep Learning Based Human Activity Recognition Using Wi-Fi Signals
 
-[Main Papers](https://github.com/xaxm007/Major-Project/tree/2582f3b5ce5cbcaa59d6557a643912c543027185/Main%20Papers)
---> These are the main papers from which we based our project on.
+## Table of Contents
 
-[Other Ideas](https://github.com/xaxm007/Major-Project/tree/8c63355bfcc29acfa4fc2ac8809bc2209b868071/Other%20Ideas)
--->These are other ideas we considered for our project.
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Repository Structure](#repository-structure)
 
-[New_Papers](https://github.com/xaxm007/Major-Project/tree/da10f77b32cf3caa9acbc2f197696766f4ca6d54/New%20Papers)
---> These are papers [ayyp1](https://github.com/ayyp1) found and contains information on data collection as well as for visualization of CSI signals.
+## Introduction
+
+This repository contains the materials for the final year project on Human Activity Recognition using Wi-Fi signals. The project involves preprocessing Channel State Information (CSI) signals collected from Raspberry Pi and visualizing the data to recognize different human activities.
+
+## Project Overview
+
+The project is divided into several key components:
+- **Hardware**: Integrating Hardware components necessary for data collection.
+- **Data Collection**: Collecting CSI data using Raspberry Pi(Rx) and Router(Tx) and visualizing the collected data in real-time.
+- **Preprocessing**: Filtering and transforming the CSI data.
+- **Feature Extraction and Annotation**: Extracting relevant features from the preprocessed data and annotating the data for training.
+- **Model Training**: Developing a machine learning model architecture and training the model to recognize different human activities.
+- **Visualization**: Visualizing the CSI data and the results of the different activity recognition.
+
+## Repository Structure
+
+```plaintext
+├── [main-reference-papers/](https://github.com/xaxm007/Major-Project/tree/8a68a6292d1b6ac5f0e4a84b66ebc04ac0bae725/Literature%20Review/)
+│   ├── paper1.pdf
+│   ├── paper2.pdf
+│   └── ...
+├── literature-review-papers/
+│   ├── review1.pdf
+│   ├── review2.pdf
+│   └── ...
+├── reports/
+│   ├── report1.pdf
+│   ├── report2.pdf
+│   └── 
+├── README.md
+└── .gitignore
