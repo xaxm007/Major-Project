@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Overview](#project-overview)
+- [Project Workflow](#project-overview)
 - [Repository Structure](#repository-structure)
 
 ## Introduction
