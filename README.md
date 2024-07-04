@@ -11,9 +11,9 @@
 
 This repository contains the materials for the final year project on Human Activity Recognition using Wi-Fi signals. The project involves preprocessing Channel State Information (CSI) signals collected from Raspberry Pi and visualizing the data to recognize different human activities.
 
-## Project Overview
+## Project Workflow
 
-The project is divided into several key components:
+The project is divided into key components:
 - **Hardware**: Integrating Hardware components necessary for data collection.
 - **Data Collection**: Collecting CSI data using Raspberry Pi(Rx) and Router(Tx) and visualizing the collected data in real-time.
 - **Preprocessing**: Filtering and transforming the CSI data.
