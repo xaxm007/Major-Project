@@ -9,3 +9,5 @@ These are the papers that were recently found while digging deep during the Hard
     - This paper does not use the Wi-Fi adapter but enhances the performance by better preprocessing.
 - [Wi-Fi Eye](<Wi-Fi Eye.pdf>)
     - Includes code the real-time visualization of CSI data and a GUI for ease in data collection.
+- [PCA & DWT](<PCA & DWT.pdf>)
+    - A paper containing details of PCA and wavelet decomposition which might be helpful. [This may be helpful]
