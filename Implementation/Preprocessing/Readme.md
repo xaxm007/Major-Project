@@ -5,6 +5,8 @@ This is the current code for data collection visualization phase.
     - This file plots ```Amplitude``` for all subcarriers, ```PCA components```, ```Spectrogram```.
 - [Conversion](./Conversion.ipynb)
     - Data conversion file for [ErmonGroup](https://github.com/ermongroup/Wifi_Activity_Recognition) and [Ludlows](https://github.com/ludlows/CSI-Activity-Recognition) csv format.
+- [PCANote](./PCANote.ipynb)
+    - Implementation by [psubedi0424](https://github.com/psubedi0424) for `Hampel` filter and visualization of Data
 ## Requirements
 The requirements to run this code are:
 - Numpy
