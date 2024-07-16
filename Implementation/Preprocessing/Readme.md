@@ -7,6 +7,8 @@ This is the current code for data collection visualization phase.
     - Data conversion file for [ErmonGroup](https://github.com/ermongroup/Wifi_Activity_Recognition) and [Ludlows](https://github.com/ludlows/CSI-Activity-Recognition) csv format.
 - [PCANote](./PCANote.ipynb)
     - Implementation by [psubedi0424](https://github.com/psubedi0424) for `Hampel` filter and visualization of Data
+- [Filtering](./Filtering.ipynb)
+    - This file applies all the filter and preprocessing to the csv data similar to [Retsediv](https://github.com/Retsediv/WIFI_CSI_based_HAR).
 ## Requirements
 The requirements to run this code are:
 - Numpy
