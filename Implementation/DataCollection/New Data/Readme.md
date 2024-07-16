@@ -10,3 +10,9 @@ Following are the order of activities for each session.
 
 - Session_3:
     - `sitting`, `jumping`, `standing`, `walking`, `running`.
+
+## File Content
+- [ModifiedData](./Modified%20Data/)
+    - This folder contains dataset where csv file includes `timestamp` for labelling.
+- [ProcessedData](./Processed%20Data/)
+    - This folder contains dataset where csv file contains `52 Data Subcarriers`, removing `Pilot (27, 39, 53)`, `Guard (0, 28-37)` and `DC(32) subcarriers`.
