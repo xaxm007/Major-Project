@@ -15,4 +15,4 @@ Following are the order of activities for each session.
 - [ModifiedData](./Modified%20Data/)
     - This folder contains dataset where csv file includes `timestamp` for labelling.
 - [ProcessedData](./Processed%20Data/)
-    - This folder contains dataset where csv file contains `52 Data Subcarriers`, removing `Pilot (27, 39, 53)`, `Guard (0, 28-37)` and `DC(32) subcarriers`.
+    - This folder contains dataset where csv file contains `52 Data Subcarriers (1-26, 38-63)`, removing `Pilot (27, 39, 53)`, `Guard (0, 28-37)` and `DC(32) subcarriers`.
