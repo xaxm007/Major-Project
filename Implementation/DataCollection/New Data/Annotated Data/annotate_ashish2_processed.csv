@@ -1,0 +1,1159 @@
+Index,Activity
+0,Walking
+1,Walking
+2,Walking
+3,Walking
+4,Walking
+5,Walking
+6,Walking
+7,Walking
+8,Walking
+9,Walking
+10,Walking
+11,Walking
+12,Walking
+13,Walking
+14,Walking
+15,Walking
+16,Walking
+17,Walking
+18,Walking
+19,Walking
+20,Walking
+21,Walking
+22,Walking
+23,Walking
+24,Walking
+25,Walking
+26,Walking
+27,Walking
+28,Walking
+29,Walking
+30,Walking
+31,Walking
+32,Standing
+33,Standing
+34,Standing
+35,Standing
+36,Standing
+37,Standing
+38,Standing
+39,Standing
+40,Standing
+41,Standing
+42,Standing
+43,Standing
+44,Standing
+45,Standing
+46,Standing
+47,Standing
+48,Standing
+49,Standing
+50,Standing
+51,Standing
+52,Standing
+53,Standing
+54,Standing
+55,Standing
+56,Standing
+57,Standing
+58,Standing
+59,Standing
+60,Standing
+61,Standing
+62,Standing
+63,Standing
+64,Standing
+65,Standing
+66,Standing
+67,Standing
+68,Standing
+69,Standing
+70,Standing
+71,Standing
+72,Standing
+73,Standing
+74,Standing
+75,Standing
+76,Standing
+77,Standing
+78,Standing
+79,Standing
+80,Standing
+81,Standing
+82,Standing
+83,Standing
+84,Standing
+85,Standing
+86,Standing
+87,Standing
+88,Standing
+89,Standing
+90,Standing
+91,Standing
+92,Standing
+93,Standing
+94,Standing
+95,Standing
+96,Standing
+97,Standing
+98,Standing
+99,Standing
+100,Standing
+101,Standing
+102,Standing
+103,Standing
+104,Standing
+105,Standing
+106,Standing
+107,Standing
+108,Standing
+109,Standing
+110,Standing
+111,Standing
+112,Standing
+113,Standing
+114,Standing
+115,Standing
+116,Standing
+117,Standing
+118,Standing
+119,Standing
+120,Standing
+121,Standing
+122,Standing
+123,Standing
+124,Standing
+125,Standing
+126,Standing
+127,Standing
+128,Standing
+129,Standing
+130,Standing
+131,Standing
+132,Standing
+133,Standing
+134,Standing
+135,Standing
+136,Standing
+137,Standing
+138,Standing
+139,Standing
+140,Standing
+141,Standing
+142,Standing
+143,Standing
+144,Standing
+145,Standing
+146,Standing
+147,Standing
+148,Standing
+149,Standing
+150,Standing
+151,Standing
+152,Standing
+153,Standing
+154,Standing
+155,Standing
+156,Standing
+157,Standing
+158,Standing
+159,Standing
+160,Standing
+161,Standing
+162,Standing
+163,Standing
+164,Standing
+165,Standing
+166,Standing
+167,Standing
+168,Standing
+169,Standing
+170,Standing
+171,Standing
+172,Standing
+173,Standing
+174,Standing
+175,Standing
+176,Standing
+177,Standing
+178,Standing
+179,Standing
+180,Standing
+181,Standing
+182,Standing
+183,Standing
+184,Standing
+185,Standing
+186,Standing
+187,Standing
+188,Standing
+189,Standing
+190,Standing
+191,Standing
+192,Standing
+193,Standing
+194,Standing
+195,Standing
+196,Standing
+197,Standing
+198,Standing
+199,Standing
+200,Standing
+201,Standing
+202,Standing
+203,Standing
+204,Standing
+205,Standing
+206,Standing
+207,Standing
+208,Standing
+209,Standing
+210,Standing
+211,Standing
+212,Standing
+213,Standing
+214,Standing
+215,Standing
+216,Standing
+217,Standing
+218,Standing
+219,Standing
+220,Standing
+221,Standing
+222,Standing
+223,Standing
+224,Standing
+225,Standing
+226,Standing
+227,Standing
+228,Standing
+229,Standing
+230,Standing
+231,Standing
+232,Standing
+233,Standing
+234,Standing
+235,Standing
+236,Standing
+237,Standing
+238,Standing
+239,Standing
+240,Standing
+241,Standing
+242,Standing
+243,Standing
+244,Standing
+245,Standing
+246,Standing
+247,Standing
+248,Standing
+249,Standing
+250,Running
+251,Running
+252,Running
+253,Running
+254,Running
+255,Running
+256,Running
+257,Running
+258,Running
+259,Running
+260,Running
+261,Running
+262,Running
+263,Running
+264,Running
+265,Running
+266,Running
+267,Running
+268,Running
+269,Running
+270,Running
+271,Running
+272,Running
+273,Running
+274,Running
+275,Running
+276,Running
+277,Running
+278,Running
+279,Running
+280,Running
+281,Running
+282,Running
+283,Running
+284,Running
+285,Running
+286,Running
+287,Running
+288,Running
+289,Running
+290,Running
+291,Running
+292,Running
+293,Running
+294,Running
+295,Running
+296,Running
+297,Running
+298,Running
+299,Running
+300,Running
+301,Running
+302,Running
+303,Running
+304,Running
+305,Running
+306,Running
+307,Running
+308,Running
+309,Running
+310,Running
+311,Running
+312,Running
+313,Running
+314,Running
+315,Running
+316,Running
+317,Running
+318,Running
+319,Running
+320,Running
+321,Running
+322,Running
+323,Running
+324,Running
+325,Running
+326,Running
+327,Running
+328,Running
+329,Running
+330,Running
+331,Running
+332,Running
+333,Running
+334,Running
+335,Running
+336,Running
+337,Running
+338,Running
+339,Running
+340,Running
+341,Running
+342,Running
+343,Running
+344,Running
+345,Running
+346,Running
+347,Running
+348,Running
+349,Running
+350,Running
+351,Running
+352,Running
+353,Running
+354,Running
+355,Running
+356,Running
+357,Running
+358,Running
+359,Running
+360,Running
+361,Running
+362,Running
+363,Running
+364,Running
+365,Running
+366,Running
+367,Running
+368,Running
+369,Running
+370,Running
+371,Running
+372,Running
+373,Running
+374,Running
+375,Running
+376,Running
+377,Running
+378,Running
+379,Running
+380,Running
+381,Running
+382,Running
+383,Running
+384,Running
+385,Running
+386,Running
+387,Running
+388,Running
+389,Running
+390,Running
+391,Running
+392,Running
+393,Running
+394,Running
+395,Running
+396,Running
+397,Running
+398,Running
+399,Running
+400,Running
+401,Running
+402,Running
+403,Running
+404,Running
+405,Running
+406,Running
+407,Running
+408,Running
+409,Running
+410,Running
+411,Running
+412,Running
+413,Running
+414,Running
+415,Running
+416,Running
+417,Running
+418,Running
+419,Running
+420,Running
+421,Running
+422,Running
+423,Running
+424,Running
+425,Running
+426,Running
+427,Running
+428,Running
+429,Running
+430,Running
+431,Running
+432,Running
+433,Running
+434,Running
+435,Running
+436,Running
+437,Running
+438,Running
+439,Running
+440,Running
+441,Running
+442,Running
+443,Running
+444,Running
+445,Running
+446,Running
+447,Running
+448,Running
+449,Running
+450,Running
+451,Sitting
+452,Sitting
+453,Sitting
+454,Sitting
+455,Sitting
+456,Sitting
+457,Sitting
+458,Sitting
+459,Sitting
+460,Sitting
+461,Sitting
+462,Sitting
+463,Sitting
+464,Sitting
+465,Sitting
+466,Sitting
+467,Sitting
+468,Sitting
+469,Sitting
+470,Sitting
+471,Sitting
+472,Sitting
+473,Sitting
+474,Sitting
+475,Sitting
+476,Sitting
+477,Sitting
+478,Sitting
+479,Sitting
+480,Sitting
+481,Sitting
+482,Sitting
+483,Sitting
+484,Sitting
+485,Sitting
+486,Sitting
+487,Sitting
+488,Sitting
+489,Sitting
+490,Sitting
+491,Sitting
+492,Sitting
+493,Sitting
+494,Sitting
+495,Sitting
+496,Sitting
+497,Sitting
+498,Sitting
+499,Sitting
+500,Sitting
+501,Sitting
+502,Sitting
+503,Sitting
+504,Sitting
+505,Sitting
+506,Sitting
+507,Sitting
+508,Sitting
+509,Sitting
+510,Sitting
+511,Sitting
+512,Sitting
+513,Sitting
+514,Sitting
+515,Sitting
+516,Sitting
+517,Sitting
+518,Sitting
+519,Sitting
+520,Sitting
+521,Sitting
+522,Sitting
+523,Sitting
+524,Sitting
+525,Sitting
+526,Sitting
+527,Sitting
+528,Sitting
+529,Sitting
+530,Sitting
+531,Sitting
+532,Sitting
+533,Sitting
+534,Sitting
+535,Sitting
+536,Sitting
+537,Sitting
+538,Sitting
+539,Sitting
+540,Sitting
+541,Sitting
+542,Sitting
+543,Sitting
+544,Sitting
+545,Sitting
+546,Sitting
+547,Sitting
+548,Sitting
+549,Sitting
+550,Sitting
+551,Sitting
+552,Sitting
+553,Sitting
+554,Sitting
+555,Sitting
+556,Sitting
+557,Sitting
+558,Sitting
+559,Sitting
+560,Sitting
+561,Sitting
+562,Sitting
+563,Sitting
+564,Sitting
+565,Sitting
+566,Sitting
+567,Sitting
+568,Sitting
+569,Sitting
+570,Sitting
+571,Sitting
+572,Sitting
+573,Sitting
+574,Sitting
+575,Sitting
+576,Sitting
+577,Sitting
+578,Sitting
+579,Sitting
+580,Sitting
+581,Sitting
+582,Sitting
+583,Sitting
+584,Sitting
+585,Sitting
+586,Sitting
+587,Sitting
+588,Sitting
+589,Sitting
+590,Sitting
+591,Sitting
+592,Sitting
+593,Sitting
+594,Sitting
+595,Sitting
+596,Sitting
+597,Sitting
+598,Sitting
+599,Sitting
+600,Sitting
+601,Sitting
+602,Sitting
+603,Sitting
+604,Sitting
+605,Sitting
+606,Sitting
+607,Sitting
+608,Sitting
+609,Sitting
+610,Sitting
+611,Sitting
+612,Sitting
+613,Sitting
+614,Sitting
+615,Sitting
+616,Sitting
+617,Sitting
+618,Sitting
+619,Sitting
+620,Sitting
+621,Sitting
+622,Sitting
+623,Sitting
+624,Sitting
+625,Sitting
+626,Sitting
+627,Sitting
+628,Sitting
+629,Jump
+630,Jump
+631,Jump
+632,Jump
+633,Jump
+634,Jump
+635,Jump
+636,Jump
+637,Jump
+638,Jump
+639,Jump
+640,Jump
+641,Jump
+642,Jump
+643,Jump
+644,Jump
+645,Jump
+646,Jump
+647,Jump
+648,Jump
+649,Jump
+650,Jump
+651,Jump
+652,Jump
+653,Jump
+654,Jump
+655,Jump
+656,Jump
+657,Jump
+658,Jump
+659,Jump
+660,Jump
+661,Jump
+662,Jump
+663,Jump
+664,Jump
+665,Jump
+666,Jump
+667,Jump
+668,Jump
+669,Jump
+670,Jump
+671,Jump
+672,Jump
+673,Jump
+674,Jump
+675,Jump
+676,Jump
+677,Jump
+678,Jump
+679,Jump
+680,Jump
+681,Jump
+682,Jump
+683,Jump
+684,Jump
+685,Jump
+686,Jump
+687,Jump
+688,Jump
+689,Jump
+690,Jump
+691,Jump
+692,Jump
+693,Jump
+694,Jump
+695,Jump
+696,Jump
+697,Jump
+698,Jump
+699,Jump
+700,Jump
+701,Jump
+702,Jump
+703,Jump
+704,Jump
+705,Jump
+706,Jump
+707,Jump
+708,Jump
+709,Jump
+710,Jump
+711,Jump
+712,Jump
+713,Jump
+714,Jump
+715,Jump
+716,Jump
+717,Jump
+718,Jump
+719,Jump
+720,Jump
+721,Jump
+722,Jump
+723,Jump
+724,Jump
+725,Jump
+726,Jump
+727,Jump
+728,Jump
+729,Jump
+730,Jump
+731,Jump
+732,Jump
+733,Jump
+734,Jump
+735,Jump
+736,Jump
+737,Jump
+738,Jump
+739,Jump
+740,Jump
+741,Jump
+742,Jump
+743,Jump
+744,Jump
+745,Jump
+746,Jump
+747,Jump
+748,Jump
+749,Jump
+750,Jump
+751,Jump
+752,Jump
+753,Jump
+754,Jump
+755,Jump
+756,Jump
+757,Jump
+758,Jump
+759,Jump
+760,Jump
+761,Jump
+762,Jump
+763,Jump
+764,Jump
+765,Jump
+766,Jump
+767,Jump
+768,Jump
+769,Jump
+770,Jump
+771,Jump
+772,Jump
+773,Jump
+774,Jump
+775,Jump
+776,Jump
+777,Jump
+778,Jump
+779,Jump
+780,Jump
+781,Jump
+782,Jump
+783,Jump
+784,Jump
+785,Jump
+786,Jump
+787,Jump
+788,Jump
+789,Jump
+790,Jump
+791,Jump
+792,Jump
+793,Jump
+794,Jump
+795,Jump
+796,Jump
+797,Jump
+798,Jump
+799,Jump
+800,Jump
+801,Jump
+802,Jump
+803,Jump
+804,Jump
+805,Jump
+806,Jump
+807,Jump
+808,Jump
+809,Jump
+810,Jump
+811,Jump
+812,Jump
+813,Jump
+814,Jump
+815,Jump
+816,Jump
+817,Jump
+818,Jump
+819,Jump
+820,Jump
+821,Jump
+822,Jump
+823,Jump
+824,Jump
+825,Jump
+826,Jump
+827,Jump
+828,Jump
+829,Jump
+830,Jump
+831,Jump
+832,Jump
+833,Jump
+834,Jump
+835,Jump
+836,Jump
+837,Jump
+838,Jump
+839,Jump
+840,Jump
+841,Jump
+842,Jump
+843,Jump
+844,Jump
+845,Jump
+846,Jump
+847,Jump
+848,Jump
+849,Jump
+850,Jump
+851,Jump
+852,Jump
+853,Jump
+854,Jump
+855,Jump
+856,Jump
+857,Jump
+858,Jump
+859,Jump
+860,Jump
+861,Jump
+862,Jump
+863,Jump
+864,Jump
+865,Jump
+866,Jump
+867,Jump
+868,Jump
+869,Jump
+870,Jump
+871,Jump
+872,Jump
+873,Jump
+874,Jump
+875,Jump
+876,Jump
+877,Jump
+878,Jump
+879,Jump
+880,Jump
+881,Jump
+882,Jump
+883,Jump
+884,Jump
+885,Jump
+886,Jump
+887,Jump
+888,Jump
+889,Jump
+890,Jump
+891,Jump
+892,Jump
+893,Jump
+894,Jump
+895,Jump
+896,Jump
+897,Jump
+898,Jump
+899,Jump
+900,Jump
+901,Jump
+902,Jump
+903,Jump
+904,Jump
+905,Jump
+906,Jump
+907,Jump
+908,Jump
+909,Jump
+910,Jump
+911,Jump
+912,Jump
+913,Jump
+914,Jump
+915,Jump
+916,Jump
+917,Jump
+918,Jump
+919,Jump
+920,Jump
+921,Jump
+922,Jump
+923,Jump
+924,Jump
+925,Jump
+926,Jump
+927,Jump
+928,Jump
+929,Jump
+930,Jump
+931,Jump
+932,Jump
+933,Jump
+934,No activity
+935,No activity
+936,No activity
+937,No activity
+938,No activity
+939,No activity
+940,No activity
+941,No activity
+942,No activity
+943,No activity
+944,No activity
+945,No activity
+946,No activity
+947,No activity
+948,No activity
+949,No activity
+950,No activity
+951,No activity
+952,No activity
+953,No activity
+954,No activity
+955,No activity
+956,No activity
+957,No activity
+958,No activity
+959,No activity
+960,No activity
+961,No activity
+962,No activity
+963,No activity
+964,No activity
+965,No activity
+966,No activity
+967,No activity
+968,No activity
+969,No activity
+970,No activity
+971,No activity
+972,No activity
+973,No activity
+974,No activity
+975,No activity
+976,No activity
+977,No activity
+978,No activity
+979,No activity
+980,No activity
+981,No activity
+982,No activity
+983,No activity
+984,No activity
+985,No activity
+986,No activity
+987,No activity
+988,No activity
+989,No activity
+990,No activity
+991,No activity
+992,No activity
+993,No activity
+994,No activity
+995,No activity
+996,No activity
+997,No activity
+998,No activity
+999,No activity
+1000,No activity
+1001,No activity
+1002,No activity
+1003,No activity
+1004,No activity
+1005,No activity
+1006,No activity
+1007,No activity
+1008,No activity
+1009,No activity
+1010,No activity
+1011,No activity
+1012,No activity
+1013,No activity
+1014,No activity
+1015,No activity
+1016,No activity
+1017,No activity
+1018,No activity
+1019,No activity
+1020,No activity
+1021,No activity
+1022,No activity
+1023,No activity
+1024,No activity
+1025,No activity
+1026,No activity
+1027,No activity
+1028,No activity
+1029,No activity
+1030,No activity
+1031,No activity
+1032,No activity
+1033,No activity
+1034,No activity
+1035,No activity
+1036,No activity
+1037,No activity
+1038,No activity
+1039,No activity
+1040,No activity
+1041,No activity
+1042,No activity
+1043,No activity
+1044,No activity
+1045,No activity
+1046,No activity
+1047,No activity
+1048,No activity
+1049,No activity
+1050,No activity
+1051,No activity
+1052,No activity
+1053,No activity
+1054,No activity
+1055,No activity
+1056,No activity
+1057,No activity
+1058,No activity
+1059,No activity
+1060,No activity
+1061,No activity
+1062,No activity
+1063,No activity
+1064,No activity
+1065,No activity
+1066,No activity
+1067,No activity
+1068,No activity
+1069,No activity
+1070,No activity
+1071,No activity
+1072,No activity
+1073,No activity
+1074,No activity
+1075,No activity
+1076,No activity
+1077,No activity
+1078,No activity
+1079,No activity
+1080,No activity
+1081,No activity
+1082,No activity
+1083,No activity
+1084,No activity
+1085,No activity
+1086,No activity
+1087,No activity
+1088,No activity
+1089,No activity
+1090,No activity
+1091,No activity
+1092,No activity
+1093,No activity
+1094,No activity
+1095,No activity
+1096,No activity
+1097,No activity
+1098,No activity
+1099,No activity
+1100,No activity
+1101,No activity
+1102,No activity
+1103,No activity
+1104,No activity
+1105,No activity
+1106,No activity
+1107,No activity
+1108,No activity
+1109,No activity
+1110,No activity
+1111,No activity
+1112,No activity
+1113,No activity
+1114,No activity
+1115,No activity
+1116,No activity
+1117,No activity
+1118,No activity
+1119,No activity
+1120,No activity
+1121,No activity
+1122,No activity
+1123,No activity
+1124,No activity
+1125,No activity
+1126,No activity
+1127,No activity
+1128,No activity
+1129,No activity
+1130,No activity
+1131,No activity
+1132,No activity
+1133,No activity
+1134,No activity
+1135,No activity
+1136,No activity
+1137,No activity
+1138,No activity
+1139,No activity
+1140,No activity
+1141,No activity
+1142,No activity
+1143,No activity
+1144,No activity
+1145,No activity
+1146,No activity
+1147,No activity
+1148,No activity
+1149,No activity
+1150,No activity
+1151,No activity
+1152,No activity
+1153,No activity
+1154,No activity
+1155,No activity
+1156,No activity
+1157,No activity
