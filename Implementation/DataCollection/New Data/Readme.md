@@ -20,3 +20,5 @@ Following are the order of activities for each session.
     - This folder contains annotated data of activity performed within ceratin timestamp for the folder [ProcessedData](./Processed%20Data/).
 - [RouterData](./Router%20Data/)
     - This folder contains data collected using TP-Link Router with 2-antennas as transmitter. The data was  collected for each session.
+- [FusedData](./Fused%20Data/)
+    - This folder contains csv file of preprocessed amplitude and phase data of `52 data subcarriers` for training model.
