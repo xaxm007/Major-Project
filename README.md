@@ -21,6 +21,15 @@ The project is divided into key components:
 - **Model Training**: Developing a machine learning model architecture and training the model to recognize different human activities.
 - **Visualization**: Visualizing the CSI data and the results of the different activity recognition.
 
+    ```mermaid
+    graph TD
+        A[Hardware: Integrating Hardware Components] --> B[Data Collection: Collecting CSI data]
+        B --> C[Preprocessing: Filtering and transforming the CSI data]
+        C --> D[Feature Extraction and Annotation]
+        D --> E[Model Training: Developing and Training ML Model]
+        E --> F[Visualization: Visualizing CSI Data and Recognition Results]
+    ```
+
 ## Repository Structure
 
 - [Main-Reference-Papers](./Main%20Reference%20Papers/)
