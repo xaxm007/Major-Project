@@ -1,13 +1,5 @@
 
-# Major Project: A Deep Learning Based Human Activity Recognition Using Wi-Fi Signals
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Workflow](#project-overview)
-- [Repository Structure](#repository-structure)
-
-## Introduction
+# 🎓 Major Project: A Deep Learning Based Human Activity Recognition Using Wi-Fi Signals
 
 This repository contains the materials for the final year project on Human Activity Recognition using Wi-Fi signals. The project involves preprocessing Channel State Information (CSI) signals collected from Raspberry Pi and visualizing the data to recognize different human activities.
 
@@ -29,6 +21,7 @@ The project is divided into key components:
         D --> E[Model Training: Developing and Training ML Model]
         E --> F[Visualization: Visualizing CSI Data and Recognition Results]
     ```
+---
 
 ## Repository Structure
 
