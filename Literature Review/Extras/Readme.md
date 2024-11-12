@@ -1,4 +1,4 @@
-## Recently Found Papers
+## Extra Papers
 
 These are the papers that were recently found while digging deep during the Hardware Setup phase as well as Preparation for data collection.
 
