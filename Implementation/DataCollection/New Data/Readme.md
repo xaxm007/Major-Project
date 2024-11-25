@@ -12,13 +12,5 @@ Following are the order of activities for each session.
     - `sitting`, `jumping`, `standing`, `walking`, `running`.
 
 ## File Content
-- [ModifiedData](./Modified%20Data/)
-    - This folder contains dataset where csv file includes `timestamp` for labelling.
-- [ProcessedData](./Processed%20Data/)
-    - This folder contains dataset where csv file contains `52 Data Subcarriers (1-26, 38-63)`, removing `Pilot (27, 39, 53)`, `Guard (0, 28-37)` and `DC(32) subcarriers`.
-- [AnnotatedData](./Annotated%20Data/)
-    - This folder contains annotated data of activity performed within ceratin timestamp for the folder [ProcessedData](./Processed%20Data/).
 - [RouterData](./Router%20Data/)
     - This folder contains data collected using TP-Link Router with 2-antennas as transmitter. The data was  collected for each session.
-- [FusedData](./Fused%20Data/)
-    - This folder contains csv file of preprocessed amplitude and phase data of `52 data subcarriers` for training model.
